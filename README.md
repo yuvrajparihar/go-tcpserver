@@ -15,7 +15,7 @@ Fire the following commands on another terminal to simulate
 multiple concurrent requests.
 
 ```
-$ curl http://localhost:1729 &
-$ curl http://localhost:1729 &
-$ curl http://localhost:1729 &
+curl http://localhost:1729 &
+curl http://localhost:1729 &
+curl http://localhost:1729 &
 ```
